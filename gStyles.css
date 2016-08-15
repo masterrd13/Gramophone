@@ -19,7 +19,7 @@ body{
 		width: 210px; 
 		height: 70px;
 		margin-left: -10px;
-		t
+		
 
 
 }
@@ -32,14 +32,26 @@ body{
 #spotify{
     width: 150px;
     margin-top: 14px;
+    border: 0 !important;
+    border-color:rgb(255,255,255)!important;
     
 }
 
 #soundcloud{
     width: 105px;
     margin-top: 6px;
-
-
+    border: 0 !important;
+    border-color:rgb(255,255,255)!important;
+}
+#SoundCloudC{
+    margin-top: 6px;
+    border: 0 !important;
+    border-color:rgb(255,255,255)!important;  
+}
+#SpotifyC{
+    margin-top: 6px;
+    border: 0 !important;
+    border-color:rgb(255,255,255)!important;
 }
 
 #navbar{
@@ -86,4 +98,5 @@ li a {
 input:focus{
     outline: none;
 }
-    
+
+
