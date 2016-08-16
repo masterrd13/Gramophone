@@ -88,6 +88,7 @@ function getSoundCloud(){
             ifrm.setAttribute('height', '100%');
             ifrm.setAttribute('scrolling', 'no');
             ifrm.setAttribute('frameborder', 'no');
+            ifrm.setAttribute('style','background: #22313F');
             $("#SoundCloudC").append(ifrm);
             
         }

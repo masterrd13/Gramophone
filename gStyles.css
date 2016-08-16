@@ -7,11 +7,11 @@
 	margin-left: -10px;
 	text-align: center;
 	border-bottom: 3px solid #bdc3c7;
-	border-top: 3px solid #bdc3c7;
 }
 
 body{
 	overflow-x: hidden;
+    background-color: #22313F !important;
 }
 
 #logo{
@@ -55,8 +55,7 @@ body{
 }
 
 #navbar{
-
-  
+    background-color: rgb:rgb(52, 73, 94);
 	margin-right: 30px;
     overflow: hidden;
     
